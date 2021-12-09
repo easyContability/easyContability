@@ -1,4 +1,13 @@
+
 ![COFFEECUP](https://user-images.githubusercontent.com/95861587/145412880-aa1083ec-c424-44fb-9040-5c785c58f6a4.png)
+
+<p align="center">
+  <a href="#SOBRE">Sobre</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#REDES-SOCIAIS">Redes Sociais</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#TECNOLOGIAS">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#FERRAMENTAS">Ferramentas</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#COFFEECUP">Coffee Cup</a>
+</p>
 
 ## 💡 SOBRE
 - A Easy Contability é um projeto do Demo Day no Instituto Proa, gerado com base no tema de "Desenvolver uma solução em tecnologia Web, voltada para atender necessidades do mercado local" buscamos problemas e chegamos com uma conclusão, um site orientador e de auxilio para controle de estoque, controle de vendas e orientações de um bom plano de abertura.
@@ -27,8 +36,8 @@
 - Illustrator 
 - Trello 
 
-## 💼 Coffee Cup
-- Nossa equipe a coffee cup é composta pelo seguinte desenvolvedores
+## 💼 COFFEECUP
+- Nossa equipe a coffee cup é composta pelo seguinte desenvolvedores, Segue abaixo o github de cada um: 
 
 <table>
   <tr>
@@ -94,4 +103,4 @@
 </table>
 
 ## LICENÇA
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/easyContability/easyContability/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](github/LICENSE.md) para mais detalhes.
