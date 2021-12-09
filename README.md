@@ -2,11 +2,11 @@
 ![COFFEECUP](https://user-images.githubusercontent.com/95861587/145412880-aa1083ec-c424-44fb-9040-5c785c58f6a4.png)
 
 <p align="center">
-  <a href="#SOBRE">Sobre</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#REDES-SOCIAIS">Redes Sociais</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#TECNOLOGIAS">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#FERRAMENTAS">Ferramentas</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#COFFEECUP">Coffee Cup</a>
+  <a href="##SOBRE">Sobre</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##REDES-SOCIAIS">Redes Sociais</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##TECNOLOGIAS">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##FERRAMENTAS">Ferramentas</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##COFFEECUP">Coffee Cup</a>
 </p>
 
 ## 💡 SOBRE
