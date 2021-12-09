@@ -30,13 +30,68 @@
 ## 💼 Coffee Cup
 - Nossa equipe a coffee cup é composta pelo seguinte desenvolvedores
 
-- ANTÔNIO CAIO
-- MARIANA OLIVEIRA
-- LUAN FERNANDO
-- LEONARDO PANDOLFI
-- JOÃO VICTOR
-- CAMILA CAVALCANTE
-- BRENO RODRIGUES
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Jovi7u">
+        <img src="https://avatars.githubusercontent.com/u/88720294?v=4" width="100px;" alt="Foto do João Victor no GitHub"/><br>
+        <sub>
+          <b>João Victor</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marioliver7">
+        <img src="https://avatars.githubusercontent.com/u/53239867?v=4" width="100px;" alt="Foto da Mariana no GitHub"/><br>
+        <sub>
+          <b>Mariana Oliveira</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Luuan11">
+        <img src="https://avatars.githubusercontent.com/u/79935555?v=4" width="100px;" alt="Foto do Luan no GitHub"/><br>
+        <sub>
+          <b>Luan Fernando</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BrenoRLAC">
+        <img src="https://avatars.githubusercontent.com/u/75743151?v=4" width="100px;" alt="Foto do Breno no GitHub"/><br>
+        <sub>
+          <b>Breno Rodrigues</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/milla18">
+        <img src="https://avatars.githubusercontent.com/u/88720519?v=4" width="100px;" alt="Foto da Camila no Github"/><br>
+        <sub>
+          <b>Camila Cavalcante</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Caioluthien">
+        <img src="https://avatars.githubusercontent.com/u/88720231?v=4" width="100px;" alt="Foto do Caio Antonio no Github"/><br>
+        <sub>
+          <b>Antônio Caio</b>
+        </sub>
+      </a><br>
+    </td>
+    <tr>
+     <td align="center">
+      <a href="https://github.com/leonardoPandolfi">
+        <img src="https://avatars.githubusercontent.com/u/88720222?v=4" width="100px;" alt="Foto do Leonardo no Github"/><br>
+        <sub>
+          <b>Leonardo Pandolfi</b>
+        </sub>
+      </a><br>
+    </td>
+    </tr>
+  </tr>
+</table>
 
 ## LICENÇA
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
