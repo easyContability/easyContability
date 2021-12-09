@@ -30,6 +30,13 @@
 ## 💼 Coffee Cup
 - Nossa equipe a coffee cup é composta pelo seguinte desenvolvedores
 
+- ANTÔNIO CAIO
+- MARIANA OLIVEIRA
+- LUAN FERNANDO
+- LEONARDO PANDOLFI
+- JOÃO VICTOR
+- CAMILA CAVALCANTE
+- BRENO RODRIGUES
 
 ## LICENÇA
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
